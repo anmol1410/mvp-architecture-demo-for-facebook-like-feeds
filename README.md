@@ -10,4 +10,4 @@ It has the below features:-
 2) The user can view details by clicking on feed item
 3) Feed is Image-only if no text available
 4) Feed is Text-only if no image available
-5) You need to club the items with same date​ under one date title.
+5) Club the items with same date​ under one date title.
